@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StudentEdTrackingSystem-in-reactjs/static/css/main.d995df62.css",
+    "main.js": "/StudentEdTrackingSystem-in-reactjs/static/js/main.cefedd0c.js",
+    "index.html": "/StudentEdTrackingSystem-in-reactjs/index.html",
+    "main.d995df62.css.map": "/StudentEdTrackingSystem-in-reactjs/static/css/main.d995df62.css.map",
+    "main.cefedd0c.js.map": "/StudentEdTrackingSystem-in-reactjs/static/js/main.cefedd0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d995df62.css",
+    "static/js/main.cefedd0c.js"
+  ]
+}
